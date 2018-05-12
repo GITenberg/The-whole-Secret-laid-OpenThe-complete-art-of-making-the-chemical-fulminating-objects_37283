@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37283#The-whole-Secret-laid-OpenThe-complete-art-of-making-the-chemical-fulminating-objects
 gutenberg_issued: '2011-08-31'
 gutenberg_type: Text
 identifiers:
